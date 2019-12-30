@@ -1,0 +1,13 @@
+{
+    "name": "wrdmapg/learning_php_unsplash",
+    "require": {
+        "unsplash/unsplash": "^2.5",
+        "vlucas/phpdotenv": "^4.1"
+    },
+    "authors": [
+        {
+            "name": "marcpre",
+            "email": "marcus.presich@gmail.com"
+        }
+    ]
+}
