@@ -37,4 +37,4 @@ function searchUnsplashPhotos(array $accessKey, array $secretKey, $search, $orie
     return $photos;
 }
 
-searchUnsplashPhotos($accessKey, $secretKey);
+searchUnsplashPhotos($accessKey, $secretKey, "forest", "landscape");
